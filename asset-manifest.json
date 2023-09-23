@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a331a63.css",
+    "main.js": "/static/js/main.0cb964f5.js",
+    "static/media/фото.png": "/static/media/фото.008ddf1b01d2805c7b4b.png",
+    "static/media/000249 1.png": "/static/media/000249 1.10eb6e56997bf3a3d2a1.png",
+    "static/media/unsplash_dvACrXUExLs.png": "/static/media/unsplash_dvACrXUExLs.3ef8fc694dfca632eaf8.png",
+    "static/media/Right.png": "/static/media/Right.73d9617c3df6433ebe73.png",
+    "static/media/Left.png": "/static/media/Left.73e387b5cf166cf2cb9a.png",
+    "static/media/000269 2.png": "/static/media/000269 2.5cd86d94bf88e502b3b0.png",
+    "static/media/Rectangle 131.png": "/static/media/Rectangle 131.79b345fa584a9497d56e.png",
+    "static/media/Center.png": "/static/media/Center.d51b7085fd021e8df2d5.png",
+    "static/media/000245 2.png": "/static/media/000245 2.5e7052a30a0dd93a83fb.png",
+    "static/media/000250 1.png": "/static/media/000250 1.89b66a29c864cec7b31a.png",
+    "static/media/000260 (1) 1.png": "/static/media/000260 (1) 1.2dc2add8c1183eb3c36c.png",
+    "static/media/000265 1.png": "/static/media/000265 1.ba86a4722dec04aa5491.png",
+    "static/media/000257 1.png": "/static/media/000257 1.623a9a52b6bfecaf1aa6.png",
+    "static/media/Mask GroupMask Group.png": "/static/media/Mask GroupMask Group.a58da9630145d50df048.png",
+    "static/media/LastImg.png": "/static/media/LastImg.a8a6447355c093a4108e.png",
+    "static/media/000269 1.png": "/static/media/000269 1.4d83f6fc2d2ce73cecd4.png",
+    "static/media/KrayLeft.png": "/static/media/KrayLeft.3344c9e8c81136392b60.png",
+    "static/media/лого.png": "/static/media/лого.a19fb2d9f5e7c0b37a3e.png",
+    "static/media/багги 3.png": "/static/media/багги 3.703933221c6fcdc39449.png",
+    "static/media/пружина 2.png": "/static/media/пружина 2.69725faafac43baa626d.png",
+    "index.html": "/index.html",
+    "main.3a331a63.css.map": "/static/css/main.3a331a63.css.map",
+    "main.0cb964f5.js.map": "/static/js/main.0cb964f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a331a63.css",
+    "static/js/main.0cb964f5.js"
+  ]
+}
